@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Главная"
+        android:icon="@drawable/baseline_account_balance_24"
+        android:id="@+id/homefragment"/>
+    <item android:title="Избранное"
+        android:icon="@drawable/baseline_add_24"
+        android:id="@+id/favoritefragment"/>
+    <item android:title="Профиль"
+        android:icon="@drawable/baseline_account_box_24"
+        android:id="@+id/profilyfragment"/>
+</menu>
